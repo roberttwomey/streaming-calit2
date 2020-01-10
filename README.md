@@ -12,7 +12,9 @@ play the amazing fish cam
 ### remote (telnet) control of vlc playback
 
 launch VLC:
-```vlc --fullscreen https://www.youtube.com/watch?v=fwfOrCyP8dM --extraintf rc --rc-host localhost:1234```
+```
+vlc --fullscreen https://www.youtube.com/watch?v=fwfOrCyP8dM --extraintf rc --rc-host localhost:1234
+```
 
 control from telnet:
 ```
@@ -34,5 +36,7 @@ Command Line Interface initialized. Type `help' for help.
 
 ## play a playlist
 
-```vlc -LZ streams/streams.txt```
+```
+vlc -LZ streams/streams.txt
+```
 
