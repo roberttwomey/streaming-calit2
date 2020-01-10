@@ -3,10 +3,16 @@ code for in-gallery playback for the streaming show in the gallery @ calit2, win
 
 ## vlc
 
+alias VLC to for command line use: 
+
+```alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'```
+
 launch command line and open mountaintop webcam
+
 ```vlc --fullscreen http://hpwren.ucsd.edu/cameras/L/syp-e-mobo-c.jpg```
 
 play the amazing fish cam
+
 ```vlc --fullscreen https://www.youtube.com/watch?v=fwfOrCyP8dM```
 
 ### remote (telnet) control of vlc playback
