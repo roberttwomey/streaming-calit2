@@ -1,5 +1,5 @@
 # streaming-calit2
-code for in-gallery playback
+code for in-gallery playback for the streaming show in the gallery @ calit2, winter 2020
 
 ## vlc
 
