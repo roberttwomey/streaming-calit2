@@ -1,6 +1,12 @@
 # streaming-calit2
 code for in-gallery playback for the streaming show in the gallery @ calit2, winter 2020
 
+## streamlink
+
+```
+streamlink -p "omxplayer --timeout 20" --player-fifo https://www.youtube.com/watch?v=fwfOrCyP8dM 720p
+```
+
 ## vlc
 
 alias VLC to for command line use: 
