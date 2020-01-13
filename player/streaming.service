@@ -1,10 +1,10 @@
 [Unit]
-Description=Runs python based event logger after boot
+Description=Runs streamlink streamer in loop after boot
 After=syslog.target network.target
 
 [Service]
 Type=forking
-ExecStart=/home/pi/housemachine/textlog/launch_blackbox.sh
+ExecStart=/home/pi/streaming-calit2/player/launch_streamer.sh
 
 [Install]
 WantedBy=multi-user.target
