@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=3U78tCXwmLk \
 http://gallerycam.ucsd.edu/mjpg/video.mjpg \
 --\} \
 --\{ \
---image-display-duration=20 http://hpwren.ucsd.edu/cameras/L/ms-n-mobo-c.jpg
+--image-display-duration=20 http://hpwren.ucsd.edu/cameras/L/ms-n-mobo-c.jpg \
 --\} \
 --\{ --resume-playback \
 media/someone.mp4 \
