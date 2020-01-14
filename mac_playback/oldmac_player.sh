@@ -1,6 +1,6 @@
 mpv='/Applications/mpv.app/Contents/MacOS/mpv'
 
-$mpv --fullscreen --length=20 \
+$mpv --fullscreen --length=40 \
 --\{ \
 https://www.youtube.com/watch?v=fwfOrCyP8dM \
 https://www.youtube.com/watch?v=qBQvaKlCXgE \
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=3U78tCXwmLk \
 http://gallerycam.ucsd.edu/mjpg/video.mjpg \
 --\} \
 --\{ \
---image-display-duration=20 http://hpwren.ucsd.edu/cameras/L/ms-n-mobo-c.jpg \
+--image-display-duration=40 http://hpwren.ucsd.edu/cameras/L/ms-n-mobo-c.jpg \
 --\} \
 --\{ --resume-playback \
 media/someone.mp4 \
