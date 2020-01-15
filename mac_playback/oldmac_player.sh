@@ -1,6 +1,6 @@
 mpv='/Applications/mpv.app/Contents/MacOS/mpv'
 
-$mpv --fullscreen --length=40 \
+$mpv --quiet --fullscreen --length=40 \
 --\{ \
 https://www.youtube.com/watch?v=I3LhqBK153Q \
 https://www.youtube.com/watch?v=qBQvaKlCXgE \
@@ -20,7 +20,7 @@ media/screensaver.mp4 \
 media/rubycam.mp4 \
 media/sycamore.mpg \
 --\} \
-#--loop-playlist --shuffle
+--loop-playlist --shuffle
 
 
 # https://www.youtube.com/channel/UCVszUW2gHcfPEAt7H5dg_CA/live \ # eunsu
