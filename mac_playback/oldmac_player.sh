@@ -18,7 +18,7 @@ media/someone.mp4 \
 media/islands.mp4 \
 media/screensaver.mp4 \
 media/rubycam.mp4 \
-media/sycamore.mov \
+media/sycamore.mpg \
 --\} \
 #--loop-playlist --shuffle
 
