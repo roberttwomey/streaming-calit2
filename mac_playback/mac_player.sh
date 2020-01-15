@@ -1,6 +1,7 @@
 mpv='/usr/local/bin/mpv'
+# mpv --fullscreen --length=40 \
 
-$mpv --quiet --fullscreen --length=40 \
+$mpv --fullscreen --length=40 \
 --\{ \
 https://www.youtube.com/watch?v=I3LhqBK153Q \
 https://www.youtube.com/watch?v=qBQvaKlCXgE \
@@ -21,3 +22,4 @@ media/rubycam.mp4 \
 media/sycamore.mpg \
 --\} \
 --loop-playlist --shuffle
+
