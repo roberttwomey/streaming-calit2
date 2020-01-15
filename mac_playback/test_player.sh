@@ -1,5 +1,6 @@
 mpv --fullscreen --length=40 \
-youtube.com/channel/UCVszUW2gHcfPEAt7H5dg_CA/live
+https://www.youtube.com/watch?v=ccE03cUg29o \ # calum
+
 
 # --\{ \
 # https://www.youtube.com/watch?v=qBQvaKlCXgE \
