@@ -1,7 +1,7 @@
   
 mpv='/Applications/mpv.app/Contents/MacOS/mpv'
-$mpv --fullscreen --length=40 youtube.com/watch?v=ccE03cUg29o
-# mpv --fullscreen --length=40 youtube.com/watch?v=ccE03cUg29o
+$mpv --fullscreen --length=40 https://www.youtube.com/watch?v=ccE03cUg29o
+# mpv --fullscreen --length=40 https://www.youtube.com/watch?v=ccE03cUg29o
 
 
 # --\{ \
