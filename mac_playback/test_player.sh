@@ -1,4 +1,7 @@
-mpv --fullscreen --length=40 \
+  
+mpv='/Applications/mpv.app/Contents/MacOS/mpv'
+$mpv --fullscreen --length=40 \
+# `mpv --fullscreen --length=40 \
 https://www.youtube.com/watch?v=ccE03cUg29o \ # calum
 
 
