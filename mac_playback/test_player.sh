@@ -1,5 +1,5 @@
-mpv --fullscreen --length=40 \
-youtube.com/channel/UCVszUW2gHcfPEAt7H5dg_CA/live
+mpv --fullscreen --length=40 --ytdl-raw-options=abort-on-unavailable-fragment= \
+https://www.youtube.com/watch?v=ccE03cUg29o
 
 # --\{ \
 # https://www.youtube.com/watch?v=qBQvaKlCXgE \
