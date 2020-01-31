@@ -1,10 +1,11 @@
 mpv='/Applications/mpv.app/Contents/MacOS/mpv'
 
-$mpv --fullscreen --length=40 \
+$mpv --quiet --fullscreen --length=40 \
 --\{ \
+https://www.youtube.com/watch?v=I3LhqBK153Q \
 https://www.youtube.com/watch?v=qBQvaKlCXgE \
 https://www.youtube.com/watch?v=fwfOrCyP8dM \
-https://www.youtube.com/watch?v=6AkYKzCr_uA \
+https://www.youtube.com/watch?v=ccE03cUg29o \
 https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8 \
 https://www.youtube.com/watch?v=3U78tCXwmLk \
 http://gallerycam.ucsd.edu/mjpg/video.mjpg \
@@ -17,6 +18,15 @@ media/someone.mp4 \
 media/islands.mp4 \
 media/screensaver.mp4 \
 media/rubycam.mp4 \
-media/sycamore.mov \
+media/sycamore.mpg \
 --\} \
 --loop-playlist --shuffle
+
+
+# https://www.youtube.com/channel/UCVszUW2gHcfPEAt7H5dg_CA/live \ # eunsu
+# https://www.youtube.com/watch?v=qBQvaKlCXgE \ # amyalexander
+# https://www.youtube.com/watch?v=fwfOrCyP8dM \ # fishcam
+# https://www.youtube.com/watch?v=ccE03cUg29o \ # calum
+# https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8 \
+# https://www.youtube.com/watch?v=3U78tCXwmLk \ # onedollarhotel
+# http://gallerycam.ucsd.edu/mjpg/video.mjpg \

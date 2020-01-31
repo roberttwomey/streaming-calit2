@@ -1,4 +1,4 @@
-mpv --fullscreen --length=40 --ytdl-raw-options=abort-on-unavailable-fragment= \
+mpv --fullscreen --length=40 \
 https://www.youtube.com/watch?v=ccE03cUg29o
 
 # --\{ \
